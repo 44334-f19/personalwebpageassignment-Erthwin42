@@ -1,1 +1,24 @@
 /*Personal Web Page Style Sheet */
+body{background-color: azure;}
+h1 {color: mediumvioletred;
+text-align: center;
+}
+
+h2{color: mediumvioletred;
+text-align: center;}
+
+div{margin: auto;
+    width: 50%;
+    padding: 10px;}
+
+img {float: left;
+    clear: right;
+padding-right: 25px;
+padding-top: 25px;
+}
+
+p(font-size: 24px;
+font-family: "Times New Roman", Times, serif;
+text-align: center;
+display: block;
+)
